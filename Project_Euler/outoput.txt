@@ -1,0 +1,70 @@
+全パターン導出
+
+1234
+1243
+1432
+4231
+1324
+3214
+2134
+
+1234
+1243
+1324
+1342
+1423
+1432
+
+12345 
+12354 
+12435 
+12453 
+12534 
+12543 
+13245 
+13254 
+13425 
+13452 
+13524 
+13542 
+
+str[0], str[1], str[2], str[3], str[4]
+
+足し算とmodでいけそう
+
+perm(n, m) {
+	// nPm を求めたい
+	// nP1 ならば 1, ..., n
+	// nP2 ならば 12, 13, ..., 1n, n1, n2, ..., nn
+	// 5P4 = 5P1 + 4P1 + 3P1 + 2P1 + 1P1
+	// count = 0;
+	// s[count]
+}
+
+void makeCombination ( vector comb, int n, int r, int step, int init) {
+	if(step == r) {
+		for (int j = 0; j < r; ++j) {
+			cout << comb[j] << " ";
+		}
+	}
+}
+
+
+str[0]
+	str[1]
+		str[2]
+			str[3] str[4]
+			str[4] str[3]
+		str[3]
+			str[2] str[4]
+			str[4] str[2]
+		str[4]
+			str[2] str[3]
+			str[3] str[2]
+	str[2]
+	str[3]
+	str[4]
+str[1]
+str[2]
+str[3]
+str[4]
