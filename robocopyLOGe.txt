@@ -1,0 +1,123 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows     ::     Version XP010
+-------------------------------------------------------------------------------
+
+  Started : Sat Nov 13 22:56:12 2021
+
+   Source : C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\
+     Dest : E:\1_Private\03_Programing\Project_Euler\
+
+    Files : *.*
+	    
+  Options : *.* /NDL /S /E /COPY:DAT /PURGE /MIR /NP /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	    New File  		   20128	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\a.out
+	    Newer     		     783	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\Factorial.cpp
+	    Newer     		     213	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\hogehoge.c
+	    New File  		     855	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\outoput.txt
+	    New File  		     355	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\permutation.cpp
+	    Newer     		     844	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\Prime.cpp
+	    Newer     		   1.4 m	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\Project_Euler_2019_presentation_all.pptx
+	    Newer     		     746	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\Sieve.cpp
+	    Newer     		     786	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\test.rb
+	    Newer     		  157621	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\Whiteboard[1]-01.png
+	    Newer     		  197600	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\Whiteboard[1]-02.png
+	    Newer     		     239	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\001.c
+	    Newer     		   54024	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\001.exe
+	    Newer     		     675	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\002.c
+	    Newer     		   54024	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\002.exe
+	    Newer     		     728	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\003.c
+	    Newer     		   54999	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\003.exe
+	    Newer     		     837	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\004.c
+	    Newer     		   55218	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\004.exe
+	    Newer     		   16688	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\005
+	    Newer     		    1398	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\005.c
+	    Newer     		   54024	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\005.exe
+	    Newer     		   16912	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\006
+	    Newer     		     744	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\006.c
+	    Newer     		   16720	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\007
+	    Newer     		     548	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\007.c
+	    Newer     		   16720	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\007_2
+	    Newer     		     562	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\007_2.c
+	    Newer     		   20768	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\008
+	    Newer     		    3659	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\008.c
+	    Newer     		   16856	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\009
+	    Newer     		     695	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\009.c
+	    Newer     		   16720	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\010
+	    Newer     		     453	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\001-010\010.c
+	    Newer     		    3785	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\011.c
+	    Newer     		   16720	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\012
+	    Newer     		     616	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\012.c
+	    Newer     		   20960	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\013
+	    Newer     		    1116	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\013.cpp
+	    Newer     		    5198	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\013in.txt
+	    Newer     		     911	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\014.c
+	    Newer     		     529	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\015.cpp
+	    Newer     		  129224	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\016
+	    Newer     		     487	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\016.cpp
+	    Newer     		   16792	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\017
+	    Newer     		     464	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\017.c
+	    Newer     		    3627	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\017.txt
+	    Newer     		     339	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\017in.txt
+	    Newer     		   33536	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\018
+	    Newer     		    1751	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\018.c
+	    Newer     		     373	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\018in.txt
+	    Newer     		   20248	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\019
+	    Newer     		    1172	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\019.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\020.c
+	    Newer     		     249	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\020.py
+	    Newer     		   50928	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\17.xlsx
+	    Newer     		   16688	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\a.out
+	    Newer     		  190620	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\011-020\output.txt
+	    Newer     		    1980	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\021-030\021.c
+	    Newer     		      44	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\021-030\021.py
+	    Newer     		    2526	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\021-030\022.c
+	    Newer     		    1699	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\021-030\023.c
+	    Newer     		     310	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\021-030\024.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\021-030\025.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\021-030\026.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\021-030\027.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\021-030\028.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\021-030\029.c
+	    Newer     		   16824	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\021-030\a.out
+	    Newer     		      38	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\021-030\input.txt
+	    Newer     		   36257	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\021-030\output.txt
+	    Newer     		   41283	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\021-030\p022_names.txt
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\031-040\031.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\031-040\032.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\031-040\033.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\031-040\034.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\031-040\035.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\031-040\036.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\031-040\037.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\031-040\038.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\031-040\039.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\041-050\041.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\041-050\042.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\041-050\043.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\041-050\044.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\041-050\045.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\041-050\046.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\041-050\047.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\041-050\048.c
+	    Newer     		     136	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\041-050\049.c
+	  *EXTRA File 		       0	E:\1_Private\03_Programing\Project_Euler\061-070\output.txt
+	    Newer     		   16912	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\061-070\067
+	    Newer     		    1556	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\061-070\067.c
+	    Newer     		   15248	C:\Users\utoma\OneDrive\Desktop\Programing\Project_Euler\061-070\067in.txt
+
+------------------------------------------------------------------------------
+
+                Total    Copied   Skipped  Mismatch    FAILED    Extras
+     Dirs :        14         2        12         0         0         0
+    Files :        93        93         0         0         0         1
+    Bytes :    2.81 m    2.81 m         0         0         0         0
+    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+    Speed :            14665905 Bytes/sec.
+    Speed :             839.189 MegaBytes/min.
+
+    Ended : Sat Nov 13 22:56:12 2021

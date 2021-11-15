@@ -1,0 +1,409 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows     ::     Version XP010
+-------------------------------------------------------------------------------
+
+  Started : Sat Nov 13 22:56:11 2021
+
+   Source : C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\
+     Dest : E:\1_Private\03_Programing\atcoder\
+
+    Files : *.*
+	    
+  Options : *.* /NDL /S /E /COPY:DAT /PURGE /MIR /NP /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	    Newer     		     347	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\cp.bat
+	    Newer     		     158	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\temprate.c
+	    Newer     		     333	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\temprate.cpp
+	    Newer     		     995	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\.vscode\launch.json
+	    Newer     		      76	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\.vscode\settings.json
+	    Newer     		     698	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\.vscode\tasks.json
+	    Newer     		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_\A.cpp
+	    Newer     		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_\B.cpp
+	    Newer     		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_\C.cpp
+	    Newer     		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_\D.cpp
+	    Newer     		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_\E.cpp
+	    Newer     		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_\F.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_\G.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_\H.cpp
+	    Newer     		     259	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_065\A.cpp
+	    Newer     		   20120	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_065\a.out
+	    Newer     		     509	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_065\B.cpp
+	    Newer     		     276	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_065\C.cpp
+	    Newer     		     276	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_065\D.cpp
+	    Newer     		     276	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_065\E.cpp
+	    Newer     		     276	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_065\F.cpp
+	    New File  		     360	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_221\A.cpp
+	    New File  		   20248	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_221\a.out
+	    New File  		     783	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_221\B.cpp
+	    New File  		    1557	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_221\C.cpp
+	    New File  		     221	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_221\D.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_221\E.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_221\F.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_221\G.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_221\H.cpp
+	    New File  		     263	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_222\A.cpp
+	    New File  		   20256	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_222\a.out
+	    New File  		     407	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_222\B.cpp
+	    New File  		    1663	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_222\C.cpp
+	    New File  		     405	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_222\D.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_222\E.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_222\F.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_222\G.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_222\H.cpp
+	    New File  		     398	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_227\A.cpp
+	    New File  		   28232	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_227\a.out
+	    New File  		     596	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_227\B.cpp
+	    New File  		     259	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_227\C.cpp
+	    New File  		     694	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_227\D.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_227\E.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_227\F.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_227\G.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC_227\H.cpp
+	    Newer     		     275	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC174_2020-08-02\A.c
+	    Newer     		   16832	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC174_2020-08-02\B
+	    Newer     		     508	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC174_2020-08-02\B.c
+	    Newer     		   21976	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC174_2020-08-02\C
+	    Newer     		     242	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC174_2020-08-02\C.c
+	    Newer     		    1006	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC174_2020-08-02\C.cpp
+	    Newer     		     116	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC174_2020-08-02\D.c
+	    Newer     		     116	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC174_2020-08-02\E.c
+	    Newer     		       0	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC174_2020-08-02\output.txt
+	    Newer     		   17208	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC175_2020-08-15\A
+	    Newer     		     720	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC175_2020-08-15\A.cpp
+	    Newer     		   17160	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC175_2020-08-15\B
+	    Newer     		    1350	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC175_2020-08-15\B.cpp
+	    Newer     		   17312	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC175_2020-08-15\C
+	    Newer     		    1279	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC175_2020-08-15\C.cpp
+	    Newer     		     315	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC175_2020-08-15\C_after.cpp
+	    Newer     		     303	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC175_2020-08-15\D.cpp
+	    Newer     		     303	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC175_2020-08-15\E.cpp
+	    Newer     		   17160	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC176_2020-08-22\A
+	    Newer     		     463	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC176_2020-08-22\A.cpp
+	    Newer     		     457	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC176_2020-08-22\B.cpp
+	    Newer     		     285	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC176_2020-08-22\B.py
+	    Newer     		   17160	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC176_2020-08-22\C
+	    Newer     		     585	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC176_2020-08-22\C.cpp
+	    Newer     		     305	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC176_2020-08-22\D.cpp
+	    Newer     		     305	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC176_2020-08-22\E.cpp
+	    Newer     		   17160	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC177_2020-08-29\A
+	    Newer     		     422	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC177_2020-08-29\A.cpp
+	    Newer     		   17440	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC177_2020-08-29\a.out
+	    Newer     		     866	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC177_2020-08-29\B.cpp
+	    Newer     		     217	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC177_2020-08-29\B.py
+	    Newer     		      89	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC177_2020-08-29\B2.py
+	    Newer     		   17160	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC177_2020-08-29\C
+	    Newer     		     657	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC177_2020-08-29\C.cpp
+	    Newer     		     237	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC177_2020-08-29\C.py
+	    Newer     		     279	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC177_2020-08-29\D.cpp
+	    Newer     		     279	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC177_2020-08-29\E.cpp
+	    Newer     		     638	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC178_2020-09-13\A.cpp
+	    Newer     		   16792	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC178_2020-09-13\a.out
+	    Newer     		     823	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC178_2020-09-13\B.cpp
+	    Newer     		     907	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC178_2020-09-13\C.cpp
+	    Newer     		     595	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC178_2020-09-13\D.cpp
+	    Newer     		     279	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC178_2020-09-13\E.cpp
+	    Newer     		     507	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC179\A.cpp
+	    Newer     		   17352	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC179\a.out
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC179\B.cpp
+	    Newer     		     659	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC179\C_TLE.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC179\D.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC179\E.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC170-179\ABC179\F.cpp
+	    Newer     		     311	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC180_2020-10-17\A.cpp
+	    Newer     		   17240	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC180_2020-10-17\a.out
+	    Newer     		     842	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC180_2020-10-17\B.cpp
+	    Newer     		     331	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC180_2020-10-17\B.py
+	    Newer     		     199	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC180_2020-10-17\B.rb
+	    Newer     		     413	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC180_2020-10-17\C.cpp
+	    Newer     		     279	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC180_2020-10-17\D.cpp
+	    Newer     		     279	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC180_2020-10-17\E.cpp
+	    Newer     		   1.1 m	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC180_2020-10-17\output.txt
+	    Newer     		     832	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC180_2020-10-17\test.cpp
+	    Newer     		     507	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC181\A.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC181\B.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC181\C.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC181\D.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC181\E.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC181\F.cpp
+	    Newer     		     507	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC182\A.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC182\B.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC182\C.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC182\D.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC182\E.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC182\F.cpp
+	    Newer     		     704	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC183_2020-11-15\A.cpp
+	    Newer     		   16824	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC183_2020-11-15\a.out
+	    Newer     		     816	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC183_2020-11-15\B.cpp
+	    Newer     		    1000	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC183_2020-11-15\C.cpp
+	    Newer     		       0	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC183_2020-11-15\c2.cpp
+	    Newer     		     639	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC183_2020-11-15\D.cpp
+	    Newer     		     639	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC183_2020-11-15\E.cpp
+	    Newer     		       0	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC183_2020-11-15\mpz_class
+	    Newer     		     557	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC183_2020-11-15\purmitation.c
+	    Newer     		     678	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC184_2020-11-22\A.cpp
+	    Newer     		   16824	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC184_2020-11-22\a.out
+	    Newer     		     824	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC184_2020-11-22\B.cpp
+	    Newer     		    1619	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC184_2020-11-22\C.cpp
+	    Newer     		    1467	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC184_2020-11-22\C2.cpp
+	    Newer     		     819	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC184_2020-11-22\D.cpp
+	    Newer     		     568	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC184_2020-11-22\E.cpp
+	    Newer     		     388	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC185\A.cpp
+	    Newer     		     568	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC185\B.cpp
+	    Newer     		     568	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC185\C.cpp
+	    Newer     		     568	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC185\D.cpp
+	    Newer     		     568	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC185\E.cpp
+	    Newer     		     594	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC186\A.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC186\B.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC186\C.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC186\D.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC186\E.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC186\F.cpp
+	    Newer     		     558	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC187_2021-01-02\a.cpp
+	    Newer     		   17056	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC187_2021-01-02\a.out
+	    Newer     		    1150	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC187_2021-01-02\b.cpp
+	    Newer     		    1110	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC187_2021-01-02\c.cpp
+	    Newer     		     483	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC188_2021-01-10\a.c
+	    Newer     		   17008	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC188_2021-01-10\a.out
+	    Newer     		     665	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC188_2021-01-10\b.c
+	    Newer     		    1582	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC188_2021-01-10\c.c
+	    Newer     		     626	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC189\A.cpp
+	    Newer     		   17256	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC189\a.out
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC189\B.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC189\C.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC189\D.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC189\E.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC180-189\ABC189\F.cpp
+	    Newer     		     747	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC190_2021-01-30\A.cpp
+	    Newer     		   17160	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC190_2021-01-30\a.out
+	    Newer     		     664	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC190_2021-01-30\B.cpp
+	    Newer     		     630	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC190_2021-01-30\C.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC190_2021-01-30\D.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC190_2021-01-30\E.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC190_2021-01-30\F.cpp
+	    Newer     		     519	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC191_2021-02-06\A.cpp
+	    Newer     		  121579	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC191_2021-02-06\a.exe
+	    Newer     		   17208	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC191_2021-02-06\a.out
+	    Newer     		     646	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC191_2021-02-06\B.cpp
+	    Newer     		     531	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC191_2021-02-06\C.cpp
+	    Newer     		    1509	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC191_2021-02-06\D.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC191_2021-02-06\E.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC191_2021-02-06\F.cpp
+	    Newer     		     507	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC192\A.cpp
+	    Newer     		   17400	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC192\a.out
+	    Newer     		     789	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC192\B.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC192\C.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC192\D.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC192\E.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC192\F.cpp
+	    Newer     		     590	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC193_2021-02-27\A.cpp
+	    Newer     		   17568	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC193_2021-02-27\a.out
+	    Newer     		     744	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC193_2021-02-27\B.cpp
+	    Newer     		     835	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC193_2021-02-27\C.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC193_2021-02-27\D.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC193_2021-02-27\E.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC193_2021-02-27\F.cpp
+	    Newer     		    4963	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC193_2021-02-27\memo.txt
+	    Newer     		    1439	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC193_2021-02-27\test.cpp
+	    Newer     		     507	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC194_2021-03-06\A.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC194_2021-03-06\B.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC194_2021-03-06\C.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC194_2021-03-06\D.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC194_2021-03-06\E.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC194_2021-03-06\F.cpp
+	    Newer     		     623	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC195_2021-03-13\A.cpp
+	    Newer     		   17352	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC195_2021-03-13\a.out
+	    Newer     		     673	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC195_2021-03-13\B.cpp
+	    Newer     		     863	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC195_2021-03-13\C.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC195_2021-03-13\D.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC195_2021-03-13\E.cpp
+	    Newer     		     981	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC195_2021-03-13\F.cpp
+	    New File  		     507	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC196_\A.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC196_\B.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC196_\C.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC196_\D.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC196_\E.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC196_\F.cpp
+	    Newer     		     610	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC196_2021-03-21\A.cpp
+	    Newer     		   17488	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC196_2021-03-21\a.out
+	    Newer     		     543	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC196_2021-03-21\B.cpp
+	    Newer     		     849	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC196_2021-03-21\C.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC196_2021-03-21\D.cpp
+	    Newer     		     748	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC196_2021-03-21\E.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC196_2021-03-21\F.cpp
+	    Newer     		     618	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC197_\A.cpp
+	    Newer     		   17336	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC197_\a.out
+	    Newer     		    1347	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC197_\B.cpp
+	    Older     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC197_\C.cpp
+	    Newer     		     825	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC197_\D.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC197_\E.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC197_\F.cpp
+	    New File  		     507	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC198_\A.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC198_\B.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC198_\C.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC198_\D.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC198_\E.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC198_\F.cpp
+	    Newer     		     709	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC198_2021-04-11\A.cpp
+	    Newer     		   17712	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC198_2021-04-11\a.out
+	    Newer     		    1141	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC198_2021-04-11\B.cpp
+	    Newer     		     813	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC198_2021-04-11\C.cpp
+	    Newer     		    1407	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC198_2021-04-11\D.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC198_2021-04-11\E.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC198_2021-04-11\F.cpp
+	    Newer     		      76	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC198_2021-04-11\.vscode\settings.json
+	    New File  		     507	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_\A.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_\B.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_\C.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_\D.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_\E.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_\F.cpp
+	    Newer     		     640	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_2021-04-24\A.cpp
+	    Newer     		   21536	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_2021-04-24\a.out
+	    Newer     		     765	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_2021-04-24\B.cpp
+	    Newer     		     979	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_2021-04-24\C.cpp
+	    Newer     		     603	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_2021-04-24\C.py
+	    Newer     		     881	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_2021-04-24\C_chikka.cpp
+	    Newer     		    1359	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_2021-04-24\C2.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_2021-04-24\D.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_2021-04-24\E.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_2021-04-24\F.cpp
+	    Newer     		    1217	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_2021-04-24\.vscode\launch.json
+	    Newer     		      74	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC190-199\ABC199_2021-04-24\.vscode\settings.json
+	    New File  		     507	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC200_\A.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC200_\B.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC200_\C.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC200_\D.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC200_\E.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC200_\F.cpp
+	    Newer     		     565	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC200_2021-05-08\A.cpp
+	    Newer     		   20168	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC200_2021-05-08\a.out
+	    Newer     		     555	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC200_2021-05-08\B.cpp
+	    Newer     		     475	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC200_2021-05-08\C.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC200_2021-05-08\D.cpp
+	    Newer     		    1073	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC200_2021-05-08\E.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC200_2021-05-08\F.cpp
+	    Newer     		     239	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC200_2021-05-08\memo.txt
+	    Newer     		     377	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC202_2021-05-22\A.cpp
+	    Newer     		   20992	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC202_2021-05-22\a.out
+	    Newer     		     801	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC202_2021-05-22\B.cpp
+	    Newer     		     655	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC202_2021-05-22\B2.cpp
+	    Newer     		     779	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC202_2021-05-22\C.cpp
+	    Newer     		     680	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC202_2021-05-22\D.cpp
+	    Newer     		     497	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC203_2021-05-30\a.cpp
+	    Newer     		   20168	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC203_2021-05-30\a.out
+	    Newer     		     500	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC203_2021-05-30\b.cpp
+	    Newer     		     916	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC203_2021-05-30\c.cpp
+	    New File  		     575	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC205_2021-06-13\A.cpp
+	    New File  		   20024	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC205_2021-06-13\a.out
+	    New File  		     732	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC205_2021-06-13\B.cpp
+	    New File  		     848	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC205_2021-06-13\C.cpp
+	    New File  		    1080	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC205_2021-06-13\D.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC205_2021-06-13\E.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC200-209\ABC205_2021-06-13\F.cpp
+	    New File  		     674	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC212_2021-07-31\A.cpp
+	    New File  		   20440	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC212_2021-07-31\a.out
+	    New File  		     945	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC212_2021-07-31\B.cpp
+	    New File  		    1084	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC212_2021-07-31\C.cpp
+	    New File  		     319	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC212_2021-07-31\D.cpp
+	    New File  		     319	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC212_2021-07-31\E.cpp
+	    New File  		     319	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC212_2021-07-31\F.cpp
+	    New File  		     312	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC218_2021-09-11\A.cpp
+	    New File  		   60986	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC218_2021-09-11\a.exe
+	    New File  		   20440	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC218_2021-09-11\a.out
+	    New File  		     356	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC218_2021-09-11\B.cpp
+	    New File  		    1448	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC218_2021-09-11\C.cpp
+	    New File  		     238	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC218_2021-09-11\CMakeLists.txt
+	    New File  		     913	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC218_2021-09-11\D.cpp
+	    New File  		     319	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC218_2021-09-11\E.cpp
+	    New File  		     319	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC218_2021-09-11\F.cpp
+	    New File  		      83	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC218_2021-09-11\main.cpp
+	    New File  		     283	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC218_2021-09-11\test.c
+	    New File  		     640	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC210-219\ABC218_2021-09-11\.vscode\c_cpp_properties.json
+	    New File  		     500	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC220-229\ABC220_2021-09-26\A.cpp
+	    New File  		   20176	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC220-229\ABC220_2021-09-26\a.out
+	    New File  		     904	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC220-229\ABC220_2021-09-26\B.cpp
+	    New File  		     315	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC220-229\ABC220_2021-09-26\B2.cpp
+	    New File  		     852	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC220-229\ABC220_2021-09-26\C.cpp
+	    New File  		     319	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC220-229\ABC220_2021-09-26\D.cpp
+	    New File  		     319	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC220-229\ABC220_2021-09-26\E.cpp
+	    New File  		     319	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC220-229\ABC220_2021-09-26\F.cpp
+	    New File  		      69	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC220-229\ABC220_2021-09-26\out.txt
+	    New File  		   1.0 m	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC220-229\ABC220_2021-09-26\test.txt
+	    New File  		     640	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC220-229\ABC220_2021-09-26\.vscode\c_cpp_properties.json
+	    New File  		      75	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC220-229\ABC220_2021-09-26\.vscode\settings.json
+	    New File  		     299	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC226_2021-11-07\A.cpp
+	    New File  		   36656	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC226_2021-11-07\a.out
+	    New File  		     406	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC226_2021-11-07\B.cpp
+	    New File  		     707	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC226_2021-11-07\C.cpp
+	    New File  		      77	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC226_2021-11-07\c.py
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC226_2021-11-07\D.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC226_2021-11-07\E.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC226_2021-11-07\F.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC226_2021-11-07\G.cpp
+	    New File  		     223	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC226_2021-11-07\H.cpp
+	    New File  		      41	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ABC226_2021-11-07\.vscode\settings.json
+	    Newer     		   53656	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\AGC\AGC047_2020-08-09\A
+	    Newer     		    1155	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\AGC\AGC047_2020-08-09\A.cpp
+	    Newer     		     303	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\AGC\AGC047_2020-08-09\B.cpp
+	    Newer     		     303	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\AGC\AGC047_2020-08-09\C.cpp
+	    Newer     		     303	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\AGC\AGC047_2020-08-09\D.cpp
+	    Newer     		     303	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\AGC\AGC047_2020-08-09\E.cpp
+	    Newer     		     937	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ARC\ARC112_2021-02-13\A.cpp
+	    Newer     		   17432	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ARC\ARC112_2021-02-13\a.out
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ARC\ARC112_2021-02-13\B.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ARC\ARC112_2021-02-13\C.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ARC\ARC112_2021-02-13\D.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ARC\ARC112_2021-02-13\E.cpp
+	    Newer     		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ARC\ARC112_2021-02-13\F.cpp
+	    New File  		     470	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ARC\ARC122_2021-06-12\A.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ARC\ARC122_2021-06-12\B.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ARC\ARC122_2021-06-12\C.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ARC\ARC122_2021-06-12\D.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ARC\ARC122_2021-06-12\E.cpp
+	    New File  		     380	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\ARC\ARC122_2021-06-12\F.cpp
+	    Newer     		     459	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\JOI2020-2021_2020-09-19\A.cpp
+	    Newer     		   17160	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\JOI2020-2021_2020-09-19\a.out
+	    Newer     		     797	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\JOI2020-2021_2020-09-19\B.cpp
+	    Newer     		     754	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\JOI2020-2021_2020-09-19\C.cpp
+	    Newer     		  121579	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\JOI2020-2021_2020-09-19\C.exe
+	    Newer     		     972	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\JOI2020-2021_2020-09-19\D.cpp
+	    Newer     		     998	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\JOI2020-2021_2020-09-19\E.cpp
+	    Newer     		   16784	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\M-SOLUTIONS_2020-07-25\A
+	    Newer     		     639	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\M-SOLUTIONS_2020-07-25\A.c
+	    Newer     		   54196	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\M-SOLUTIONS_2020-07-25\A.exe
+	    Newer     		   16784	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\M-SOLUTIONS_2020-07-25\B
+	    Newer     		     677	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\M-SOLUTIONS_2020-07-25\B.c
+	    Newer     		   54196	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\M-SOLUTIONS_2020-07-25\B.exe
+	    Newer     		     461	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\M-SOLUTIONS_2020-07-25\C.c
+	    Newer     		     638	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\M-SOLUTIONS_2020-07-25\D.c
+	    Newer     		   32776	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\M-SOLUTIONS_2020-07-25\problem.exe
+	    Newer     		       7	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\M-SOLUTIONS_2020-07-25\problem.in
+	    Newer     		     363	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\M-SOLUTIONS_2020-07-25\.vscode\c_cpp_properties.json
+	    Newer     		    1164	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\M-SOLUTIONS_2020-07-25\.vscode\launch.json
+	    Newer     		      30	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\M-SOLUTIONS_2020-07-25\.vscode\settings.json
+	    Newer     		     804	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\M-SOLUTIONS_2020-07-25\.vscode\tasks.json
+	    Newer     		     431	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\第二回日本最強プログラマー学生選手権\A.cpp
+	    Newer     		   17408	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\第二回日本最強プログラマー学生選手権\a.out
+	    Newer     		    1308	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\第二回日本最強プログラマー学生選手権\B.cpp
+	    Newer     		     469	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\第二回日本最強プログラマー学生選手権\C.cpp
+	    Newer     		     480	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\第二回日本最強プログラマー学生選手権\D.cpp
+	    Newer     		     480	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\第二回日本最強プログラマー学生選手権\E.cpp
+	    Newer     		     480	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\第二回日本最強プログラマー学生選手権\F.cpp
+	    Newer     		     480	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\第二回日本最強プログラマー学生選手権\G.cpp
+	    Newer     		     480	C:\Users\utoma\OneDrive\Desktop\Programing\atcoder\Others\第二回日本最強プログラマー学生選手権\H.cpp
+
+------------------------------------------------------------------------------
+
+                Total    Copied   Skipped  Mismatch    FAILED    Extras
+     Dirs :        88        23        65         0         0         0
+    Files :       380       380         0         0         0         0
+    Bytes :    3.66 m    3.66 m         0         0         0         0
+    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+    Speed :             5220619 Bytes/sec.
+    Speed :             298.726 MegaBytes/min.
+
+    Ended : Sat Nov 13 22:56:12 2021
