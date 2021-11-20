@@ -1,0 +1,3 @@
+update consumer_tbl
+set name = 'Yuto'
+where consumer_id = 2

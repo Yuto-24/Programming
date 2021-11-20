@@ -1,0 +1,1 @@
+select * from product_tbl order by price desc

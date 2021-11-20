@@ -1,0 +1,2 @@
+INSERT product_tbl(product_name, price)
+VALUES ('TIME', 100000000000)

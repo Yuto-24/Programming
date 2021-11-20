@@ -1,0 +1,9 @@
+select product_name from deal_tbl, product_tbl
+where deal_tbl.product_id = product_tbl.product_id
+and deal_tbl.consumer_id = 1
+
+
+select product_tbl.product_name, deal_tbl.num
+from product_tbl, deal_tbl
+where product_tbl.product_id = deal_tbl.product_id
+and deal_tbl.num >= 3

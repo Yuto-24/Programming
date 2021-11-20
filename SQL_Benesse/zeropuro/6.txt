@@ -1,0 +1,5 @@
+select
+	address,
+	count(*)
+from
+	consumer_tbl group by address
