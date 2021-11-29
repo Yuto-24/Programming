@@ -1,24 +1,3 @@
-# def min(a)
-#     min = a[0]
-#     a.each_index do |i|
-# 		if min > a[i] then
-# 			min = a[i]
-# 		end
-#     return min
-# end
-
-# def minpos(a)
-#     min = a[0]
-# 	pos = 0
-# 	a.each_index do |i|
-# 		if min > a[i] then
-# 			min = a[i]
-# 			pos = i
-# 		end
-# 	end
-# 	return pos
-# end
-
 # 演習 1-a
 # 最も小さい値が入っている位置が分かる
 # ポジションの"値"が欲しい
@@ -61,22 +40,3 @@ print(a)
 a = [18, 13, 20, 12, 15, 14]
 selectionsort(a)
 print(a)
-
-
-
-# def plus_two(a, b)
-#     return a + b
-# end
-
-# def hogehoge
-#     c = 1
-#     d = 2
-#     k = plus_two(c, d)
-
-#     # k = c + d
-#     print(k)
-# 	print("\n")
-#     return k
-# end
-
-# hogehoge
