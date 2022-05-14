@@ -1,15 +1,14 @@
+#include <bits/stdc++.h>
+using namespace std;
 #define _USE_MATH_DEFINES
-#include <limits.h>
-#include <math.h>
-#include <stdbool.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <sys/times.h> // 構造体tmsを使うために必要.
-#include <time.h>
-#include <unistd.h>
+#define ll long long int
+
+// コンパイル時に
+// -lgmpxx -lgmp
+// int => mpz_class
 
 int main(int argc, char **argv) {
+	cout << fixed << setprecision(10);
 
 	return 0;
 }

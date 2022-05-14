@@ -1,11 +1,14 @@
-#include <math.h>
-#include <stdbool.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+#include <bits/stdc++.h>
+using namespace std;
+#define _USE_MATH_DEFINES
+#define ll long long int
 
-int main()
-{
-	
+// コンパイル時に
+// -lgmpxx -lgmp
+// int => mpz_class
+
+int main(int argc, char **argv) {
+	cout << fixed << setprecision(10);
+
 	return 0;
 }
