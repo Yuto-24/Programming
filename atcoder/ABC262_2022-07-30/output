@@ -1,11 +1,29 @@
 test 1
-6
+eq
+c0
+c1
+c2
+eq
+c3
+2
 
 test 2
-6
+c0
+c1
+c4
+eq
+c5
+eq
+c6
+c7
+eq
+c8
+eq
+c9
+4
 
 test 3
-10
+0
 
 test 4
-2
+0

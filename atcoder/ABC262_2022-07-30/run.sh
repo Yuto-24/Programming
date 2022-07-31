@@ -27,12 +27,12 @@ test(){
 
 compile(){
     echo "g++ -W -w $str"
-    test
     g++ -W -w $str
+    test
     echo ""
-    echo "\`\`\`"
-    cat ./output
-    echo "\`\`\`"
+    # echo "\`\`\`"
+    # cat ./output
+    # echo "\`\`\`"
     # echo "Done!"
 }
 

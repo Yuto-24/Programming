@@ -16,25 +16,23 @@ int main(int argc, char **argv) {
 		cin >> a[i];
 	}
 
-	ll ans = 0;
-	ll minA, maxA;
-	for (int i = 0; i <= n - 1; i++) {
-		for (int j = i + 1; j < n; j++) {
-			for (int count = i; count <= j; count++) {
-				minA = min(a[i], a[j]);
-				maxA = max(a[i], a[j]);
-			}
-			// cout << "i:\t" << i + 1 << "\tj:\t" << j + 1 << endl;
-			// cout << "minA:\t" << minA << "\tmaxA:\t" << maxA << endl;
-			if (i + 1 == minA && j + 1 == maxA) {
-				ans++;
-				// cout << "\nans::  ";
-				// cout << "i:" << i + 1 << ", j:" << j + 1 << endl
-				//      << endl;
-			}
+	ll countEq = 0;
+	ll count = 0;
+	for (int i = 0; i < n; i++) {
+		if (a[i] == i + 1) {
+			countEq++;
+			cout << "eq" << endl;
+		}
+		if (i + 1 == a[a[i] - 1]) {
+			count++;
+			cout << "c" << i << endl;
 		}
 	}
+	count /= 2;
+	// countEq *= (countEq - 1);
+	// countEq /= 2;
+	// count += countEq;
 
-	cout << ans << endl;
+	cout << count << endl;
 	return 0;
 }
