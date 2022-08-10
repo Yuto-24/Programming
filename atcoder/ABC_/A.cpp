@@ -8,6 +8,5 @@ using namespace std;
 // int => mpz_class
 
 int main(int argc, char **argv) {
-	
 	return 0;
 }
