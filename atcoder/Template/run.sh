@@ -74,7 +74,8 @@ shift $((OPTIND - 1))
 # 数値1 -le 数値2	数値1が数値2以下であれば真（<=）
 # https://www.pasonatech.co.jp/workstyle/column/detail.html?p=7450
 
-# 引数と変数
+# 引数
 # https://shellscript.sunone.me/parameter.html
+# 変数
 # https://shellscript.sunone.me/variable.html
 # getopt の ":"は値を必要とする引数に付ける
